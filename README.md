@@ -1,9 +1,7 @@
-<h1 align="center">안녕하세요 👋, 저는 한기호입니다!</h1>
-<h3 align="center">정말 행복해요 🌈</h3>
-
-<h3 align="left">저와 소통하세요:</h3>
-<p align="left">
-</p>
+<h1 align="center">안녕하세요! 이 프로젝트는 부트캠프 과제로 만들어진 결과물 입니다. </h1>
+<h3 align="center">간단한 숫자 입력으로 쇼핑몰 상품을 둘러보고 장바구니에 담을 수 있습니다.</h3>
+<h3 align="center"> 1번. 상품 목록 보기 2. 상품 담기.-> 상품명 입력 -> 갯 수 입력 3. 장바구니 상품목록 및 합계 가격 보기. 4.프로그램 종료. -> 재확인 멘트 후 5번 입력 시 종료. 6. 장바구니 비우기 </h3>
+<h3 align="center">챗지피티의 도움을 받아 만든 과제이고, 현재 모든 코드를 이해하지 못했지만 복습중에 있습니다.</h3>
 
 <h3 align="left">언어 및 도구:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.Vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.Vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.Vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/ko" target="_blank" rel="참조 없음"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="포토샵" width="40" height="40"/> </a> </p>
